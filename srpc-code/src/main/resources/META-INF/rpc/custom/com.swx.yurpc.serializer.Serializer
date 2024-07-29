@@ -1,0 +1,2 @@
+json=com.swx.srpc.serializer.JsonSerializer
+kryo=com.swx.srpc.serializer.KryoSerializer

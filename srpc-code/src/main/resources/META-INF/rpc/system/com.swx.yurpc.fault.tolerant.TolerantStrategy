@@ -1,0 +1,4 @@
+failBack=com.swx.srpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.swx.srpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.swx.srpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.swx.srpc.fault.tolerant.FailSafeTolerantStrategy

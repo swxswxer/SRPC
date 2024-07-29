@@ -1,0 +1,3 @@
+roundRobin=com.swx.srpc.loadbalancer.RoundRobinLoadBalancer
+random=com.swx.srpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.swx.srpc.loadbalancer.ConsistentHashLoadBalancer

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7c46738-f66e-40e5-b007-f4ab9761963b" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2jUscArh0Ui3YjfgynX1IKvx4PN" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.ExampleServiceImplTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoadBalancerTest.select.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProtocolMessageTest.testEncodeAndDecode.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegistryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegistryTest.heartBeat.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegistryTest.register.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RetryStrategyTest.testRetry.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.yu-rpc [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ExampleSpringbootConsumerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ExampleSpringbootProviderApplication.executor&quot;: &quot;Run&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;zulu-1.8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yanghaoxin/Desktop/项目/RPC/yu-rpc/example-springboot-consumer/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.ConsumerExample.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.EasyProviderExample.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.EsayConsumerExample.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.EsayProviderExample.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.EtcdRegistry.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ProviderExample (1).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ProviderExample.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SerializerTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SpiLoader.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.VertxTcpClient.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.VertxTcpServer.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.swx.yurpc.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example-springboot-consumer/src/main/resources" />
+      <recent name="$PROJECT_DIR$/example-springboot-provider/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/yu-rpc-code/src/main/resources/META-INF/rpc/system" />
+      <recent name="$PROJECT_DIR$/example-consumer/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/yu-rpc-code/src/main/resources/META-INF/rpc/system" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.ConsumerExample">
+    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swx.example.conumer.ConsumerExample" />
+      <module name="example-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swx.example.conumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swx.example.provider.ProviderExample" />
+      <module name="example-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swx.example.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleServiceImplTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="example-springboot-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.examplespringbootconsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yupi.examplespringbootconsumer" />
+      <option name="MAIN_CLASS_NAME" value="com.yupi.examplespringbootconsumer.ExampleServiceImplTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="yu-rpc-easy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="yu-rpc-easy" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleSpringbootConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="example-springboot-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yupi.examplespringbootconsumer.ExampleSpringbootConsumerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.examplespringbootconsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleSpringbootProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="example-springboot-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yupi.examplespringbootprovider.ExampleSpringbootProviderApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.examplespringbootprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExampleServiceImplTest.test1" />
+        <item itemvalue="Spring Boot.ExampleSpringbootConsumerApplication" />
+        <item itemvalue="Spring Boot.ExampleSpringbootProviderApplication" />
+        <item itemvalue="应用程序.ConsumerExample" />
+        <item itemvalue="应用程序.ProviderExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d7c46738-f66e-40e5-b007-f4ab9761963b" name="更改" comment="" />
+      <created>1721453068293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721453068293</updated>
+      <workItem from="1721453069377" duration="18693000" />
+      <workItem from="1721552362960" duration="314000" />
+      <workItem from="1721553139242" duration="358000" />
+      <workItem from="1721553508434" duration="3203000" />
+      <workItem from="1721564822721" duration="53647000" />
+      <workItem from="1722036548705" duration="17259000" />
+      <workItem from="1722081437010" duration="9315000" />
+      <workItem from="1722140115388" duration="22531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

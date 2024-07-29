@@ -1,0 +1,2 @@
+no=com.swx.srpc.fault.retry.NoRetryStrategy
+fixedInterval=com.swx.srpc.fault.retry.FixedIntervalRetryStrategy
