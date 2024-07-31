@@ -24,7 +24,7 @@ public class ExampleServiceImpl {
      */
     public void test() {
         User user = new User();
-        user.setName("yupi");
+        user.setName("swx");
         User resultUser = userService.getUser(user);
         System.out.println(resultUser.getName());
     }

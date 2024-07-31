@@ -9,7 +9,7 @@ import lombok.Data;
 @Data
 public class RpcConfig {
     //名称
-    private String name = "yu-rpc";
+    private String name = "srpc";
     //版本号
     private String version = "1.0";
     //服务器主机
